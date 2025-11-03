@@ -1,4 +1,4 @@
-MENGHITUNG TOTAL BIAYA PENGIRIMAN
+# MENGHITUNG TOTAL BIAYA PENGIRIMAN
 
 Jarak kurang dari atau sama dengan 10 km: Rp 4250 per kg
 Jarak lebih dari 10 km: Rp 6000 per kg
